@@ -1,0 +1,98 @@
+---
+id: sm11-70
+name: Xurkitree
+supertype: Pokémon
+subtypes:
+- Basic
+- Ultra Beast
+hp: '120'
+types:
+- Lightning
+attacks:
+- name: Three Mirrors
+  cost:
+  - Lightning
+  convertedEnergyCost: 1
+  damage: 30+
+  text: If your opponent has exactly 3 Prize cards remaining, this attack does 90
+    more damage.
+- name: Signal Beam
+  cost:
+  - Lightning
+  - Lightning
+  convertedEnergyCost: 2
+  damage: '50'
+  text: Your opponent's Active Pokémon is now Confused.
+weaknesses:
+- type: Fighting
+  value: "×2"
+resistances:
+- type: Metal
+  value: "-20"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: sm11
+  name: Unified Minds
+  series: Sun & Moon
+  printedTotal: 236
+  total: 260
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: UNM
+  releaseDate: 2019/08/02
+  updatedAt: 2021/09/01 05:37:00
+  images:
+    symbol: https://images.pokemontcg.io/sm11/symbol.png
+    logo: https://images.pokemontcg.io/sm11/logo.png
+number: '70'
+artist: Satoshi Shirai
+rarity: Rare
+flavorText: Although it's alien to this world and a danger here, it's apparently a
+  common organism in the world where it normally lives.
+nationalPokedexNumbers:
+- 796
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm11/70.png
+  large: https://images.pokemontcg.io/sm11/70_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm11-70
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.2
+      mid: 0.43
+      high: 4.99
+      market: 0.41
+      directLow: 0.43
+    reverseHolofoil:
+      low: 0.25
+      mid: 0.81
+      high: 4.99
+      market: 0.81
+      directLow: 0.81
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm11-70
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.37
+    lowPrice: 0.02
+    trendPrice: 0.34
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.86
+    reverseHoloLow: 0.29
+    reverseHoloTrend: 0.79
+    lowPriceExPlus: 0.02
+    avg1: 0.77
+    avg7: 0.32
+    avg30: 0.38
+    reverseHoloAvg1: 0.2
+    reverseHoloAvg7: 0.58
+    reverseHoloAvg30: 0.75

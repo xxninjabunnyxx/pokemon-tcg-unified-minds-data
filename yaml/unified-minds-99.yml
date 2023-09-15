@@ -1,0 +1,94 @@
+---
+id: sm11-99
+name: Salazzle
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '110'
+types:
+- Psychic
+evolvesFrom: Salandit
+attacks:
+- name: Smack
+  cost:
+  - Psychic
+  convertedEnergyCost: 1
+  damage: '40'
+  text: ''
+- name: Slashing Claw
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '90'
+  text: ''
+weaknesses:
+- type: Psychic
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sm11
+  name: Unified Minds
+  series: Sun & Moon
+  printedTotal: 236
+  total: 260
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: UNM
+  releaseDate: 2019/08/02
+  updatedAt: 2021/09/01 05:37:00
+  images:
+    symbol: https://images.pokemontcg.io/sm11/symbol.png
+    logo: https://images.pokemontcg.io/sm11/logo.png
+number: '99'
+artist: Masakazu Fukuda
+rarity: Rare
+flavorText: Salazzle lives deep in caves and forces the Salandit it has attracted
+  with its pheromones to serve it.
+nationalPokedexNumbers:
+- 758
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm11/99.png
+  large: https://images.pokemontcg.io/sm11/99_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm11-99
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.14
+      mid: 0.25
+      high: 1.39
+      market: 0.23
+      directLow: 0.23
+    reverseHolofoil:
+      low: 0.15
+      mid: 0.42
+      high: 1.19
+      market: 0.29
+      directLow: 0.29
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm11-99
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.14
+    lowPrice: 0.04
+    trendPrice: 0.21
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.87
+    reverseHoloLow: 0.1
+    reverseHoloTrend: 0.63
+    lowPriceExPlus: 0.04
+    avg1: 0.15
+    avg7: 0.14
+    avg30: 0.24
+    reverseHoloAvg1: 1.0
+    reverseHoloAvg7: 0.56
+    reverseHoloAvg30: 0.54
